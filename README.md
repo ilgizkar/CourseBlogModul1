@@ -1,1 +1,1 @@
-# CourseBlogModul1
+Мысли о/от модуля
